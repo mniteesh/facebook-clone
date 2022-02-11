@@ -1,0 +1,8 @@
+.feed{
+    padding: 30px 40px;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
